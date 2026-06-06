@@ -1,0 +1,54 @@
+﻿Statement,Issuer Name,FYE,Page No,Currency reported,Section,COA Flag,Row Items,COA Datapoint,Governmental Activities,Business-type Activities,Total,Total Check Status
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,DPG,Assets,Assets,,,,
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,DP,Current assets: Cash and investments,Cash and Investments,"959,732","104,075","1,063,807",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,DP,Current assets: Restricted cash and investments,Restricted Cash,"75,044",1,"75,045",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,DP,Current assets: Receivables: Accounts,Accounts Receivable,"3,176","17,657","20,833",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,DP,Current assets: Receivables: Taxes,Taxes Receivable,"7,222",-,"7,222",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,DP,Current assets: Receivables: Interest,Interest Receivable,"5,598","1,039","6,637",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,DP,Current assets: Receivables: Leases,Other Receivable,"10,966",-,"10,966",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,DP,Current assets: Internal balances,Due from Other Funds,"(59,816)","59,816",-,
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,DP,Current assets: Inventories,Inventories,869,-,869,
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,DP,Current assets: Deposits and prepaid items,Prepaid items,"21,179",-,"21,179",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,CP,Total current assets,Total current assets,"1,023,970","182,588","1,206,558",PASS
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,DP,Noncurrent assets: Capital assets: Nondepreciable,Capital Assets,"344,221","40,782","385,003",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,DP,Noncurrent assets: Capital assets: Depreciable,Capital Assets,"977,212","212,166","1,189,378",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,DP,Noncurrent assets: Capital assets: Less accumulated depreciation,Capital Assets,"(680,716)","(138,185)","(818,901)",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,CP,Total capital assets,Total capital assets,"640,717","114,763","755,480",PASS
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,DP,Noncurrent assets: Loans and notes,Other Receivable,"135,021",-,"135,021",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,DP,Noncurrent assets: Lease Receivable,Other Receivable,"730,043",-,"730,043",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,CP,Total noncurrent assets,Total noncurrent assets,"1,505,781","114,763","1,620,544",PASS
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Assets,CP,Total assets,Total Assets,"2,529,751","297,351","2,827,102",PASS
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Deferred Outflows of Resources,DPG,Deferred Outflows of Resources,Deferred Outflows of Resources,,,,
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Deferred Outflows of Resources,DP,Pension items,Deferred Outflows of Resources,"58,689","5,564","64,253",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Deferred Outflows of Resources,DP,OPEB items,Deferred Outflows of Resources,"20,058",-,"20,058",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Deferred Outflows of Resources,CP,Total deferred outflows of resources,Total Deferred Outflows of Resources,"78,747","5,564","84,311",PASS
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,DPG,Liabilities,Liabilities,,,,
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,DP,Current liabilities: Accounts payable and accrued liabilities,Accounts Payable,"30,612","4,707","35,319",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,DP,Current liabilities: Interest payable,Interest Payable,"1,633",-,"1,633",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,DP,Current liabilities: Refundable deposits,Deposit Payable,"7,189",438,"7,627",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,DP,Current liabilities: Unearned revenue,Deferred Revenue,"7,666",-,"7,666",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,DP,Current liabilities: Compensated absences - current,Payroll Liabilities - Current,"2,855",212,"3,067",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,DP,Current liabilities: Accrued self-insurance costs - current,Other Liabilities - Current,"4,202",-,"4,202",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,DP,Current liabilities: Long-term debt - current portion,Long-term Debt - Current,"3,035","1,466","4,501",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,CP,Total current liabilities,Total Current Liabilities,"57,192","6,823","64,015",PASS
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,DP,Noncurrent liabilities: Compensated absences,Payroll Liabilities - Noncurrent,"14,041","1,526","15,567",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,DP,Noncurrent liabilities: Accrued self-insurance costs,Other Liabilities - Noncurrent,"8,833",-,"8,833",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,DP,Noncurrent liabilities: Net pension liability,Payroll Liabilities - Noncurrent,"234,342","21,538","255,880",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,DP,Noncurrent liabilities: Net OPEB liability,Payroll Liabilities - Noncurrent,"6,550",-,"6,550",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,DP,Noncurrent liabilities: Long-term debt,Long-term Debt - Noncurrent,"138,658","8,406","147,064",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,CP,Total noncurrent liabilities,Total Noncurrent Liabilities,"402,424","31,470","433,894",PASS
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Liabilities,CP,Total liabilities,Total Liabilities,"459,616","38,293","497,909",PASS
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Deferred Inflows of Resources,DPG,Deferred Inflows of Resources,Deferred Inflows of Resources,,,,
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Deferred Inflows of Resources,DP,OPEB items,Deferred Inflows of Resources,"4,109",-,"4,109",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Deferred Inflows of Resources,DP,Leases,Deferred Inflows of Resources,"697,361",-,"697,361",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Deferred Inflows of Resources,CP,Total deferred inflows of resources,Total Deferred Inflows of Resources,"701,470",-,"701,470",PASS
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Net Position,DPG,Net Position,Net Position,,,,
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Net Position,DP,Net investment in capital assets,Net Investment in Capital Assets,"619,378","104,891","724,269",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Net Position,DP,Restricted for: Capital projects,Restricted Net Assets,"331,590",-,"331,590",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Net Position,DP,Restricted for: Debt service,Restricted Net Assets,45,-,45,
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Net Position,DP,Restricted for: Low and moderate income housing,Restricted Net Assets,"205,847",-,"205,847",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Net Position,DP,Restricted for: Shoreline Regional Park Community,Restricted Net Assets,"121,681",-,"121,681",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Net Position,DP,Restricted for: Grants and regulations,Restricted Net Assets,"79,981",-,"79,981",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Net Position,CP,Total restricted,Total Restricted,"739,144",-,"739,144",PASS
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Net Position,DP,Unrestricted,Unrestricted Net Assets,"88,890","159,731","248,621",
+Statement of Net Position,City of Mountain View,"June 30, 2025",55,USD ($),Net Position,CP,Total net position,Total Net Position,"1,447,412","264,622","1,712,034",PASS
